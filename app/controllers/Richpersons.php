@@ -37,7 +37,7 @@ class Richpersons extends Controller
     public function delete($id)
     {
 
-        $this->countryModel->deletePerson($id);
+        $this->richpersonModel->deletePerson($id);
 
         $data = [
             'deleteStatus' => "Het record met id = $id is verwijderd"
