@@ -1,7 +1,7 @@
 <?php echo $data["title"];
 
 ?>
-<table>
+<table border="1">
     <thead>
         <th>Naam</th>
         <th>Vermogen</th>
