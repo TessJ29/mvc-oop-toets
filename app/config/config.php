@@ -3,12 +3,12 @@
     define('DB_HOST', 'localhost');
     define('DB_USER', 'root');
     define('DB_PASS', '');
-    define('DB_NAME', 'oop-mvc-framework');
+    define('DB_NAME', 'mvc-oop-toets');
 
     // Pad naar app map
     define('APPROOT', dirname(dirname(__FILE__)));
 
-    define('URLROOT', 'http://www.oop-mvc-framework.local');
+    define('URLROOT', 'http://mvc-oop-toets.com/');
 
-    define('SITENAME', 'oop-mvc-framework');
+    define('SITENAME', 'mvc-oop-toets');
 // ?>
