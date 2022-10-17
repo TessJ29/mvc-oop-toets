@@ -3,7 +3,6 @@
 ?>
 <table>
     <thead>
-        <th>id</th>
         <th>Naam</th>
         <th>Vermogen</th>
         <th>Leeftijd</th>

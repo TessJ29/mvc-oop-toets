@@ -16,12 +16,11 @@ class Richpersons extends Controller
         $rows = '';
         foreach ($richpersons as $value) {
             $rows .= "<tr>
-                            <td>$value->Id</td>
                             <td>$value->Name</td>
                             <td>$value->Networth</td>
                             <td>$value->MyAge</td>
                             <td>$value->Company</td>
-                            <td><a href='" . URLROOT . "/richpersons/delete/$value->Id'>delete</a></td>
+                            <td><a href='" . URLROOT . "/richpersons/delete/$value->Id'>Delete X</a></td>
                           </tr>";
         }
 
