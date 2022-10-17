@@ -15,7 +15,3 @@
         <?= $data['persons'] ?>
     </tbody>
 </table>
-
-<button>
-    <a href="<?= URLROOT; ?>/homepages/index">Terug</a>
-</button>
