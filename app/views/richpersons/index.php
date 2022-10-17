@@ -4,11 +4,10 @@
 <table>
     <thead>
         <th>id</th>
-        <th>Land</th>
-        <th>capital</th>
-        <th>Continent</th>
-        <th>Population</th>
-        <th>Update</th>
+        <th>Naam</th>
+        <th>Vermogen</th>
+        <th>Leeftijd</th>
+        <th>Bedrijf</th>
         <th>Delete</th>
     </thead>
     <tbody>
